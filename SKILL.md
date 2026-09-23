@@ -1,4 +1,4 @@
-﻿---
+---
 name: qinzi-hongbao
 slug: qinzi-hongbao
 displayName: 亲子乐园红包助手
